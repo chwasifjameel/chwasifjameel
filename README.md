@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chwasifjameel" target="blank"><img src="https://img.shields.io/twitter/follow/chwasifjameel?logo=twitter&style=for-the-badge" alt="chwasifjameel" /></a> </p>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **DevOps | AWS | Cloud**
 
 - 👨‍💻 All of my projects are available at [wasifjameel.com](wasifjameel.com)
 
